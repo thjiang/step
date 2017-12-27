@@ -1,0 +1,19 @@
+{
+  "name": "step",
+  "version": "1.0.0",
+  "description": "my footprint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thjiang/step.git"
+  },
+  "author": "browserify@qq.com",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thjiang/step/issues"
+  },
+  "homepage": "https://github.com/thjiang/step#readme"
+}
